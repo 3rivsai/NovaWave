@@ -1,0 +1,229 @@
+@media screen and (min-width:1200px){}
+@media screen and (min-width:1200px) and (max-width: 1280px) {
+
+}
+
+@media screen and (min-width:992px) and (max-width: 1199px) {
+    .bb-img {
+    width: 35px;
+}
+.ben-box {
+    width: calc(33% - 10px);
+}
+.bb-txt {
+    width: calc(100% - 50px);
+}
+.ben-box h3 {
+    font-size: 19px;
+}
+.ch-text-box {
+    max-width: 440px;
+}
+
+}
+
+@media screen and (min-width:768px) and (max-width: 991px) {
+.hero-content h1 {
+    font-size: 30px;
+}
+.hero-content {
+    max-width: 500px;
+}
+  .choice-box img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.ch-text {
+    margin-left: 0;
+    padding: 0px 15px;
+}
+
+.choice-box.box-2 .ch-text {
+    margin-left: auto;
+    margin-right: 0;
+    padding: 0px 15px;
+}
+.ch-text-box {
+        max-width: 100%;
+    }
+    .ftr-links {
+        display: block;
+        text-align: center;
+    }
+    .ftr-links p {
+        margin-bottom: 10px;
+    }
+    .bb-img {
+    width: 35px;
+}
+.ben-box {
+    width: calc(33% - 10px);
+}
+.bb-txt {
+    width: calc(100% - 50px);
+}
+
+}
+
+@media screen and (max-width:767px){
+
+    .hero-content h1 {
+    font-size: 28px;
+}
+.hero-con {
+    position: relative !important;
+    left: 0;
+    transform: translate(0%, 0%);
+    top: -100px;
+}
+#hero{
+    background: url(../images/hero-mb-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cus-btn {
+    padding: 12px 20px;
+    text-align: center;
+
+}
+#hero .cus-btn {
+    margin: 0 auto;
+}
+#offer {
+    margin-top: -100px;
+}
+  .ben-box {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.bb-img,.bb-txt {
+    width: 100%;
+    text-align: center;
+}
+.bb-img img{
+    width: 50px;
+    margin-bottom: 15px;
+}
+#benefits {
+    margin: 40px 0px 10px;
+}
+.nova-choice h2,h2.sec-head {
+    font-size: 30px;
+}
+
+.choice-box img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.ch-text {
+    margin-left: 0;
+    padding: 0px 15px;
+}
+.choice-box.box-2 .ch-text {
+    margin-left: auto;
+    margin-right: 0;
+    padding: 0px 15px;
+}
+#nova-use h2 {
+    margin-bottom: 0;
+}
+.position-relative {
+    margin-top: 60px;
+}
+#nova-use{
+    margin-top: 40px;
+}
+#review{
+     background: url(../images/testimonial-mb-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#review .container {
+    position: relative !important;
+    /* margin: 0 auto; */
+    left: 0;
+    transform: translate(0%, 0%);
+    top: 0;
+}
+#review h2{
+    font-size: 25px;
+}
+.rw-inner {
+    padding-bottom: 30px;
+}
+.usr-rvw-bx {
+    width: 100%;
+}
+#exc-offer h2.sec-head{
+    font-size: 25px;
+}
+.box-1-in {
+    padding: 10px;
+}
+.box-1-in h3 {
+    font-size: 22px;
+}
+.shp-tet {
+    display: block;
+}
+.ship-flex-text {
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.box-2-in {
+    padding: 15px;
+}
+.box-2-in h3 {
+    font-size: 20px;
+}
+.ftr-links {
+    display: block;
+    text-align: center;
+}
+.ftr-links p {
+    margin-bottom: 10px;
+}
+#logo-wrpper img{
+    margin: 0 auto;
+}
+.gn-box {
+    justify-content: center;
+    margin-top: 20px;
+}
+.ch-text-box {
+    max-width: 100%;
+}
+footer {
+    padding-bottom: 120px;
+}
+#fixed-btn{
+    display: block;
+}
+
+.rbox-user{
+        max-width: 300px;
+    margin: 0 auto;
+}
+#overlay{
+    display: none;
+}
+
+
+}
+
+@media screen and (min-width:576px) and (max-width: 767px) { 
+
+
+}
+
+@media screen and (min-width:481px) and (max-width: 575px) {
+
+ }
+ 
+
+@media screen and (min-width:320px) and (max-width: 480px) {
+  
+
+
+ }
+
